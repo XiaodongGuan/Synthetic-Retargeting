@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7f6af4b-a854-4d3a-95d0-979c7976875e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BodyMesh2.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/AMASSresults/fastfp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/AMASSresults/op400fast.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Artist.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Artist_plus.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Barber.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/CMU_pose_checker.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/CanonicalNaked.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructor.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructorV1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructorV2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructorV2_CROWDED.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructorV3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataConstructor_Single2Crowd.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataGreyscaliser.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataVisualizerV1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataVisualizerV2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataVisualizerV2_CROWDED.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataVisualizerV3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/DataVisualizerV3_CROWDED.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Downsampler.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Downsampler_synONLY.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Downsampler_synONLY_crowded.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Eye_rightC.obj" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/EyeballC.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/EyeballS.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/FigSynth_Generator.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/FigSynth_Masker.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Head01.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Head01_trimmed.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Head02.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/JpositionCamSpace.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/MeshGen.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/MeshGenBatch.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Mezz.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/MotionVz.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/examples/demo.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/smplx/body_models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/smplx/joint_names.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/smplx/lbs.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/smplx/utils.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/POP_app/smplx-master/smplx/vertex_joint_selector.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Reborn.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_ToolKit/Official_smplx_vert_segmentation.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_ToolKit/SMPLX_POP_showcase/uploads_files_2244428_hair(16).mtl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_ToolKit/kokoko.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_ToolKit/smplx_vert_segmentation.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_fp.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_POP_outfit_fp.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_TRIAL.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_notorso_female_fp.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SMPLX_notorso_male_fp.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/SceneRecon.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_3d_occ.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_ABFixColor.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_Crowded_v1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_Crowded_v2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_FreePose.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_en_glasses.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v10.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v11.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v12.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v13.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v14.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v15.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v16.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v17.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v18.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v19.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v20.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v4.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v5.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v6.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v7.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v8.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_v9.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/Workflow_vAB.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/assets/template_mesh_smplx_uv.obj" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/baldhead.obj" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/baldheadFP.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/body_idx.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/discreteBody.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/discreteSMPLX_FP.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/discreteSMPLX_POP_fp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/distin.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/distinguished.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/distinguishedfp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/find_body_uvs_from_templateOBJ.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/img2video.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/jointOP.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/jointOP.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/jointOP_SMPLX.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/jointOP_SMPLX_fp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/jointOPfp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/lib/config_parser.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/lib/dataset.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/lib/network.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/lib/utils_model.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/neighbour.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/neighbourfp.ply" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/sheet_gen.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/txt_concatenator.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/vertexCluster.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POP-main/zzz.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POP-main/zzzgeomEmpty.ply" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SheetGen.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/builtins.pyi" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23bTHPa8JOHKhsE5xJ2DMFnMhgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/home/xiaodongguan/BigDesk/from_github/hmr2.0-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POP-main/assets" />
+      <recent name="$PROJECT_DIR$/POP-main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/POP-main/assets/glasses" />
+      <recent name="$PROJECT_DIR$/POP-main/SMPLX_POP_ToolKit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POP-main/assets/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sheet_gen">
+    <configuration name="CMU_pose_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POPcustomized" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POP-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POP-main/CMU_pose_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mezz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POPcustomized" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POP-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POP-main/Mezz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SceneRecon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POPcustomized" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POP-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POP-main/SceneRecon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_body_uvs_from_templateOBJ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POPcustomized" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POP-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POP-main/find_body_uvs_from_templateOBJ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sheet_gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POPcustomized" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POP-main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POP-main/sheet_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sheet_gen" />
+        <item itemvalue="Python.find_body_uvs_from_templateOBJ" />
+        <item itemvalue="Python.CMU_pose_checker" />
+        <item itemvalue="Python.Mezz" />
+        <item itemvalue="Python.SceneRecon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f6af4b-a854-4d3a-95d0-979c7976875e" name="Changes" comment="" />
+      <created>1642001700114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642001700114</updated>
+    </task>
+    <servers />
+  </component>
+</project>
